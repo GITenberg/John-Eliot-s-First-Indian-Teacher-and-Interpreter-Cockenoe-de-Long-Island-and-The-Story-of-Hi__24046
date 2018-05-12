@@ -1,0 +1,29 @@
+_repo: John-Eliot-s-First-Indian-Teacher-and-Interpreter-Cockenoe-de-Long-Island-and-The-Story-of-Hi__24046
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tooker, William Wallace
+    birthdate: 1848
+    deathdate: 1917
+    gutenberg_agent_id: '26196'
+    url: http://www.gutenberg.org/2009/agents/26196
+description: ''
+gutenberg_issued: '2007-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24046'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- New York (State) -- Long Island'
+- !lcc 'E011'
+- !lcsh 'Eliot, John, 1604-1690'
+- !lcsh 'Cockenoe-de-Long Island, fl. 1649-1687'
+title: John Eliot's First Indian Teacher and Interpreter Cockenoe-de-Long Island and
+  The Story of His Career from the Early Records
+url: http://www.gutenberg.org/ebooks/24046
