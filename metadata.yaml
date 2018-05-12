@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26196'
     url: http://www.gutenberg.org/2009/agents/26196
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24046#John-Eliot-s-First-Indian-Teacher-and-Interpreter-Cockenoe-de-Long-Island-and-The-Story-of-Hi_
 gutenberg_issued: '2007-12-26'
 gutenberg_type: Text
 identifiers:
